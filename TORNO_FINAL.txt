@@ -1,0 +1,22 @@
+Project title: Classroom Management System in using Android of Patria Sable Corpus 
+College – Senior High School Department
+
+INTRODUCTION
+In advent of technology, communication becomes faster and easier in a tap of a fingertip. 
+In an academic institution, communication between parents and school is very challenging 
+and important one. One of the worries of the parents is that if their children are really 
+attending their class period. And with that monitoring is one of the great responsibilities 
+of a teacher. Attendance Monitoring System with SMS is a kind of system that will inform 
+the parent about the attendance of the student. The system functionalities are done in all
+ transaction and the system will be useful in the disseminating information, and will 
+surely help the parents in monitoring their children anytime and anywhere without worries. 
+This is especially useful when parents are Overseas Filipino Workers (OFWs) and using the 
+internet is the most cost effective way to monitor their child. Reports may also be 
+generated such as attendance history. 
+
+OBJECTIVES: 
+1.	To let the parent monitor their child using a real-time notification through SMS.
+2.	To improve visibility to track and manage student attendance, absenteeism and lateness.
+3.	To update the students about the different activities of the school through SMS.
+4.	To notify the students about the schedule of exam.
+5.	To let the students check their grades online.
